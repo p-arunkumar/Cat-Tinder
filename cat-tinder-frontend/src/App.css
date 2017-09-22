@@ -1,0 +1,72 @@
+.pageHeader {
+	text-align: center;
+}
+
+.subtitle{
+	color:#e84545;
+}
+
+.catForm{
+	margin: auto auto auto 31.5%;
+	width: 40%;
+}
+
+.inputClass{
+	width:200%;
+}
+
+img {
+	margin-top: -40px;
+	margin-bottom: -25px;
+}
+
+
+.showCatsList {
+	margin: auto;
+	width: 70%;
+}
+
+.profileContent {
+	margin-top: 30px;
+	text-align: center;
+}
+
+.profileText{
+	margin-top:60px;
+}
+
+.container2 {
+	width:100px;
+	height: 110px;
+	overflow: hidden;
+	margin-left:300px;
+	margin-top: -73px;
+}
+
+.img-circle{
+	margin-top: 10px;
+	max-width: 300px;
+	width: 100%;
+	border-radius: 50%;
+	align-content: center;
+}
+.img-circle:hover{
+	opacity:50%;
+}
+
+.listClass {
+	padding-left: 10%;
+	padding-right: 10%;
+	height: 140px;
+	padding-top:50px;
+
+}
+
+.cat-name {
+	font-size: 1.5em;
+	color:#e84545;
+}
+
+Button{
+	margin-top: 50px;
+}
